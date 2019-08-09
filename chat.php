@@ -23,11 +23,15 @@ if(isset($chat)){
 
 	 if($data == true){
 
-		echo '<audio src="../assets/messenger.mp3" autoplay="true" ></audio>';
-	}else{
+        echo '<audio src="../assets/messenger.mp3" autoplay="true" ></audio>';
 
-		false;
-	}
+        
+
+    }else{
+
+        false;
+    }
+
 
 
 }

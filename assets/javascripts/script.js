@@ -25,7 +25,7 @@
 
 	  			$('form#chatmessage input').val('');
 
-	  			$(".commentList").animate({ scrollTop: 100000 }, "slow");
+	  			$(".commentList").animate({ scrollTop: 100000 });
 
 	  		}
 

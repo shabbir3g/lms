@@ -68,7 +68,7 @@
             <div class="leftside-header">
                 <div class="logo">
                     <a href="index.php" class="on-click">
-                        <h3>PUST</h3>
+                        <h3>বইঘর</h3>
                         <!-- <img alt="logo" src="images/header-logo.png" /> -->
                     </a>
                 </div>
@@ -140,7 +140,7 @@
             <div class="left-sidebar">
                 <!-- left sidebar HEADER -->
                 <div class="left-sidebar-header">
-                    <div class="left-sidebar-title">Navigation</div>
+                    <div class="left-sidebar-title">পাবনা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়</div>
                     <div class="left-sidebar-toggle c-hamburger c-hamburger--htla hidden-xs" data-toggle-class="left-sidebar-collapsed" data-target="html">
                         <span></span>
                     </div>

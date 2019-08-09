@@ -8,6 +8,9 @@ require_once("dbcon.php");
  $data = mysqli_query($con, "SELECT * FROM message");
 
 
+    
+
+
 
 while( $row = mysqli_fetch_assoc( $data)){  
 
@@ -19,7 +22,10 @@ while( $row = mysqli_fetch_assoc( $data)){
 
 	$message = $row['message'];
 
-	$mainmessage = str_replace($symbol, $emoji, $message)
+	$mainmessage = str_replace($symbol, $emoji, $message);
+
+
+
 
 
 	?>
@@ -39,6 +45,7 @@ while( $row = mysqli_fetch_assoc( $data)){
 
 <?php
 }
+
 
 
 

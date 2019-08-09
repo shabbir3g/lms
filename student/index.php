@@ -15,7 +15,7 @@
                 <div class="row animated fadeInUp">
                     
                     <div class="col-sm-12">
-                    <h4 class="section-subtitle"><b>All Students</b></h4>
+                    <h4 class="section-subtitle"><b>All Issued Books</b></h4>
 
                     <div class="panel">
                         <div class="panel-content">
